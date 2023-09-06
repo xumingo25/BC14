@@ -8,5 +8,5 @@
  - Domingo Saavedra
 
 ### Integrantes:
-
--Bernardo Estrada
+- Bernardo Estrada
+- Romina Antagli
