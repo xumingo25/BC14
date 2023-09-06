@@ -8,6 +8,7 @@
 - Domingo Saavedra
 
 ### Integrantes:
+- Carol Leiva
 - Andrea Alvarez Zunino
 - Mariana
 - Guido Papa Rúa
