@@ -8,6 +8,7 @@
 - Domingo Saavedra
 
 ### Integrantes:
+- Guido Papa Rúa
 - Belen Gonzalez 
 - Maria Jose Zarza
 - Bernardo Estrada
