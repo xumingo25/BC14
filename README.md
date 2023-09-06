@@ -8,3 +8,4 @@
  - Domingo Saavedra
 
 ### Integrantes:
+Carol Leiva
