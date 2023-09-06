@@ -8,6 +8,7 @@
 - Domingo Saavedra
 
 ### Integrantes:
+- Belen Gonzalez 
 - Maria Jose Zarza
 - Bernardo Estrada
 - Romina Antagli
