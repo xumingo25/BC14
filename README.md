@@ -5,7 +5,12 @@
 ## Integrantes
 
 ### Profesor:
- - Domingo Saavedra
+- Domingo Saavedra
 
 ### Integrantes:
 - Mariana
+- Guido Papa Rúa
+- Belen Gonzalez 
+- Maria Jose Zarza
+- Bernardo Estrada
+- Romina Antagli
