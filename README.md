@@ -8,6 +8,7 @@
 - Domingo Saavedra
 
 ### Integrantes:
+- Andrea Alvarez Zunino
 - Mariana
 - Guido Papa Rúa
 - Belen Gonzalez 
