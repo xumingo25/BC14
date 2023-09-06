@@ -8,4 +8,4 @@
  - Domingo Saavedra
 
 ### Integrantes:
-- Mariana Palavecino
+- Mariana
